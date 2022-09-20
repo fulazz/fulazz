@@ -1,6 +1,6 @@
 ### Hello there! 👋🏾 I'm Fula :cherry_blossom:
 
-My background from Public Health [B.Sc. in Public Health] :purple_heart:, now I'm doing my Master's Degree in Statistics and Data Science. :computer::full_moon_with_face:. Nice to meet you :blush:
+My background from Public Health [B.Sc. in Public Health] :purple_heart:, now I'm doing my Master's Degree in Statistics and Data Science. :computer::full_moon_with_face: Nice to meet you! :blush:
 
 ![This is an image](octocat-1663681550348.png)
 

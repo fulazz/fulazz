@@ -2,7 +2,9 @@
 
 My background from Public Health [B.Sc. in Public Health] :purple_heart:, now I'm doing my Master's Degree in Statistics and Data Science. :computer::full_moon_with_face: Nice to meet you! :blush:
 
-![This is an image](octocat-1663681550348.png)
+<p align="center">
+  <img width="581" height="571" src="octocat-1663681550348.png">
+</p>
 
 <!--
 **fulazz/fulazz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

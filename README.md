@@ -3,7 +3,7 @@
 My background from Public Health [B.Sc. in Public Health] :purple_heart:, now I'm doing my Master's Degree in Statistics and Data Science. :computer::full_moon_with_face: Nice to meet you! :blush:
 
 <p align="center">
-  <img width="581" height="571" src="octocat-1663681550348.png">
+  <img width="481" height="471" src="octocat-1663681550348.png">
 </p>
 
 <!--

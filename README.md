@@ -1,7 +1,7 @@
 ### Hello there! 👋🏾 I'm Fula :cherry_blossom:
 
 <p align="justify">
-Experienced data science professional with a strong academic background in Public Health 👩‍⚕️:purple_heart: and currently pursuing a Master's degree in Statistics and Data Science :computer:. Proficient in statistical analysis, machine learning, and data visualization techniques 📈📉. Skilled in programming languages such as R and Python, as well as tools like SQL and Git . Seeking remote positions and collaborations with international companies to apply my expertise in data-driven decision-making and contribute to innovative projects🧠. Well-versed in handling complex datasets, deriving insights , and developing predictive models. Open to new opportunities and eager to leverage my skills to drive meaningful outcomes. Let's connect and explore how we can harness the power of data together! 😊🧑‍🤝‍🧑
+Experienced data science professional with a strong academic background in Public Health 👩‍⚕️:purple_heart: and currently pursuing a Master's degree in Statistics and Data Science :computer:. Proficient in statistical analysis, machine learning, and data visualization techniques 📈📉. Skilled in programming languages such as R and Python, as well as tools like SQL and Git. Seeking remote positions and collaborations with international companies to apply my expertise in data-driven decision-making and contribute to innovative projects🧠. Well-versed in handling complex datasets, deriving insights , and developing predictive models. Open to new opportunities and eager to leverage my skills to drive meaningful outcomes. Let's connect and explore how we can harness the power of data together! 😊🧑‍🤝‍🧑
 </p>
 
 <p align="center">
